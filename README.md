@@ -2,7 +2,7 @@
 
 A flexible, battery-backed phototherapy swaddle for newborns with jaundice.
 
-Team ID: VK-2026-HT-108
+Team ID: VK26-IITI-HT-0323
 Track: Health Tech
 Submitted to: Vishwakarma Awards 2026-27 (Stage 2)
 
